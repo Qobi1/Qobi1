@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Qobil</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Backend Specialist</h3>
 
 <p align="center">
@@ -65,13 +65,13 @@
 ---
 
 ### 🌟 Featured Projects  
-- 🚀 **[Payroll Management System](https://github.com/Qobi1/payroll-system)** (Django, DRF, PostgreSQL)  
+- 🚀 **[Payroll Management System]** (Django, DRF, PostgreSQL)  
   📊 Manage employee timesheets, salaries, and payroll history with advanced API endpoints.  
 
-- 🤖 **[Telegram Payment Bot](https://github.com/Qobi1/telegram-payment-bot)** (Django, Celery, Redis, Telegram)  
+- 🤖 **[Telegram Payment Bot]** (Django, Celery, Redis, Telegram)  
   💳 Integrated **Click payment system** for instant transactions.  
 
-- 🧹 **[Task Queue Manager](https://github.com/Qobi1/task-queue-celery)** (Django, Celery, Redis)  
+- 🧹 **[Task Queue Manager]** (Django, Celery, Redis)  
   ⚙️ Automated task scheduling and background processing.  
 
 ---
@@ -84,10 +84,10 @@
 ---
 
 ### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[your-telegram])  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-username])  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qobil-tulaganov-34881823b)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Qobil_1)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qobi1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Qobi1)  
 
 ---
 
