@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python/Django Developer from Uzbekistan</h3>
 
 <p align="center">
-  <a href="https://github.com/[your-username]"><img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20views&color=0e75b6&style=flat" alt="[your-username]" /></a>
+  <a href="https://github.com/[your-username]"><img src="https://komarev.com/ghpvc/?username=Qobi1&label=Profile%20views&color=0e75b6&style=flat" alt="Qobi1" /></a>
   <a href="https://github.com/[your-username]?tab=followers"><img src="https://img.shields.io/github/followers/[your-username]?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
@@ -28,23 +28,23 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="[your-username]" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="[your-username]" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Qobi1&show_icons=true&theme=radical" alt="Qobi1" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Qobi1&theme=radical" alt="Qobi1" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=onestar&margin-w=10&margin-h=10" alt="[your-username]" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[your-username]&theme=onestar&margin-w=10&margin-h=10" alt="Qobi1" />
 </p>
 
 ---
 
 ### 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[your-telegram])  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-username])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qobil-tulaganov-34881823b)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Qobil_1)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Qobi1)  
 
 ---
 
