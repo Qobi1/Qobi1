@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Qobil</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Backend Specialist</h3>
+<h3 align="center">🚀 Passionate Software Engineer | Backend Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Qobi1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
